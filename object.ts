@@ -11,3 +11,5 @@ const user:User = {
 type UserArray = Array<User>
 
 const userArray: UserArray = [{id: 40, name:"50"}]
+
+export{}
